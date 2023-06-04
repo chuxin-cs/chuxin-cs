@@ -6,7 +6,7 @@ A Front end developer from ChangSha, China.
 - JavaScript
 
 🏠 Blog:
-[https://juejin.cn/user/782508010775198/posts](https://juejin.cn/user/4262122786936445)
+- [掘金](https://juejin.cn/user/4262122786936445)
 
 
 <!--
