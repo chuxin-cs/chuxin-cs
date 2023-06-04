@@ -1,4 +1,12 @@
-### Hi there 👋
+Hi there, I am chuxin👋
+A Front end developer from ChangSha, China.
+
+🏗️ Learning:
+- JavaScript
+
+🏠 Blog:
+[https://juejin.cn/user/782508010775198/posts](https://juejin.cn/user/4262122786936445)
+
 
 <!--
 **chuxin-cs/chuxin-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
