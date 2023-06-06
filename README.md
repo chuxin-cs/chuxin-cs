@@ -1,9 +1,10 @@
-Hi there, I am chuxin👋
-
-A Front end developer from ChangSha, China.
+大家好，我叫初心，来自中国长沙~
 
 🏗️ Learning:
+- Vue
+- React
 - JavaScript
+- Vite、Webpack
 
 🏠 Blog:
 - [掘金](https://juejin.cn/user/4262122786936445)
