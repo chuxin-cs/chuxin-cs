@@ -8,6 +8,7 @@
 
 🏠 Blog:
 - [掘金](https://juejin.cn/user/4262122786936445)
+- [语雀](https://www.yuque.com/chuxin-cs/it/xe23atq5lby0yc14)
 
 
 <!--
