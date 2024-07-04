@@ -1,0 +1,23 @@
+{
+  "name": "chuxin-cs",
+  "version": "0.0.0",
+  "description": "Hi, I am chuxin",
+  "bugs": "https://github.com/chuxin-cs/chuxin-cs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chuxin-cs/chuxin-cs"
+  },
+  "funding": "https://github.com/sponsors/chuxin-cs",
+  "license": "MIT",
+  "author": "chuxin",
+  "main": "index.js",
+  "bin": {
+    "chuxin-cs": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "open": "^8.2.1"
+  }
+}
